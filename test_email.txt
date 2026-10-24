@@ -1,0 +1,25 @@
+From: sarah.johnson@techcorp.com
+Sent: Fri, 20 Oct 2026 14:30:00 +0530
+To: team@company.com
+Subject: Q4 Budget Review Meeting - ACTION REQUIRED
+
+Hi team,
+
+Hope you're doing well! Quick update on the budget meeting.
+
+When: Next Tuesday, Oct 24th at 3pm IST
+Where: Conference Room B / Zoom link below
+Who: Sarah Johnson (Budget Lead), Mike Chen, Priya Sharma
+
+Action items:
+- Mike to prepare Q3 spending report by Monday
+- Priya needs to finalize vendor contracts ASAP
+- Everyone review the attached spreadsheet before meeting
+
+Budget total is around $45,000 for Q4. We might need to cut 10% from marketing if sales don't pick up.
+
+Zoom: https://zoom.us/j/123456789
+Passcode: 987654
+
+Best,
+Sarah
